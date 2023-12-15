@@ -1,1 +1,10 @@
-# DSA-Analysis-and-Design
+What was the problem you were solving in the projects for this course?
+The problem that was solved for this project was creating a program that could read input from a file, organize course data, and add, delete, alter, and serve it up upon request in a meaningful, easy to read format. This information would show courses, course description, and any prerequisites required.
+How did you approach the problem? Consider why data structures are important to understand.
+I approached this by determining how the data would best be stored to operate efficiently. I determined this to be the binary search tree. Understanding data structures becomes more important the larger a project is. Being able to calculate the Big O number and how to read this can help effortlessly in determining how to proceed.
+How did you overcome any roadblocks you encountered while going through the activities or project?
+The major roadblock I encountered while working on this project was the use of eclipse in the student virtual space. I found it to be extremely laggy and was unable to run programs to begin with. I overcame these issues by downloading eclipse, using it locally, and reading up on the errors I received while trying to execute each time. My take away here is a better understanding of eclipse.
+How has your work on this project expanded your approach to designing software and developing programs?
+My work on this project expanded my approach to designing software by the use of psuedocode and flowcharts to help writing what I wanted the program to do in concise plain language prior to building upon it with code. This approach is a good way to stay organized and keep me on track when working on separate pieces at a time.
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+My work on this project has helped me get more practice at writing code that I do not get outside of class. I usually have issues keeping up with notes within code and having a cluttered code base im sure. I like to think that I have done good at addressing these issues with this project.
